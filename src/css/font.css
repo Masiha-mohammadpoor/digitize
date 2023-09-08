@@ -1,0 +1,87 @@
+/* bold */
+
+@font-face {
+    font-family: "vazir";
+    font-style: normal;
+    font-weight: bold;
+    src: url("../../assets/font/vazir/Vazir-Bold.eot") format("eot"),
+    url("../../assets/font/vazir/Vazir-Bold.ttf") format("ttf"),
+    url("../../assets/font/vazir/Vazir-Bold.woff") format("woff");
+}
+
+/* thin */
+
+@font-face {
+    font-family: "vazir";
+    font-style: normal;
+    font-weight: 100;
+    src: url("../../assets/font/vazir/Vazir-Thin.eot") format("eot"),
+    url("../../assets/font/vazir/Vazir-Thin.ttf") format("ttf"),
+    url("../../assets/font/vazir/Vazir-Thin.woff") format("woff");
+}
+
+/* light */
+
+@font-face {
+    font-family: "vazir";
+    font-style: normal;
+    font-weight: 300;
+    src: url("../../assets/font/vazir/Vazir-Light.eot") format("eot"),
+    url("../../assets/font/vazir/Vazir-Light.ttf") format("ttf"),
+    url("../../assets/font/vazir/Vazir-Light.woff") format("woff");
+}
+
+/* regular */
+
+@font-face {
+    font-family: "vazir";
+    font-style: normal;
+    font-weight: normal;
+    src: url("../../assets/font/vazir/Vazir-Regular.eot") format("eot"),
+    url("../../assets/font/vazir/Vazir-Thin.ttf") format("ttf"),
+    url("../../assets/font/vazir/Vazir-Regular.woff") format("woff");
+}
+
+/* medium */
+@font-face {
+    font-family: "vazir";
+    font-style: normal;
+    font-weight: 500;
+    src: url("../../assets/font/vazir/Vazir-Medium.eot") format("eot"),
+    url("../../assets/font/vazir/Vazir-Medium.ttf") format("ttf"),
+    url("../../assets/font/vazir/Vazir-Medium.woff") format("woff");
+}
+
+/* bold */
+
+@font-face {
+    font-family: "vazir";
+    font-style: normal;
+    font-weight: 800;
+    src: url("../../assets/font/vazir/Vazir-Bold.eot") format("eot"),
+    url("../../assets/font/vazir/Vazir-Bold.ttf") format("ttf"),
+    url("../../assets/font/vazir/Vazir-Bold.woff") format("woff");
+}
+
+/* black */
+
+@font-face {
+    font-family: "vazir";
+    font-style: normal;
+    font-weight: 850;
+    src: url("../../assets/font/vazir/Vazir-Black.eot") format("eot"),
+    url("../../assets/font/vazir/Vazir-Black.ttf") format("ttf"),
+    url("../../assets/font/vazir/Vazir-Black.woff") format("woff");
+}
+
+/* extra bold */
+
+@font-face {
+    font-family: "vazir";
+    font-style: normal;
+    font-weight: 900;
+    src: url("../../assets/font/vazir/Vazir-Black.eot") format("eot"),
+    url("../../assets/font/vazir/Vazir-Black.ttf") format("ttf"),
+    url("../../assets/font/vazir/Vazir-Black.woff") format("woff");
+}
+
